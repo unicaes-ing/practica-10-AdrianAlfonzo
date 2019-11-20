@@ -1,0 +1,7 @@
+C:\Users\luisa\source\repos\DIEZ\DIEZ\bin\Debug\DIEZ.exe.config
+C:\Users\luisa\source\repos\DIEZ\DIEZ\bin\Debug\DIEZ.exe
+C:\Users\luisa\source\repos\DIEZ\DIEZ\bin\Debug\DIEZ.pdb
+C:\Users\luisa\source\repos\DIEZ\DIEZ\obj\Debug\DIEZ.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\DIEZ\DIEZ\obj\Debug\DIEZ.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\DIEZ\DIEZ\obj\Debug\DIEZ.exe
+C:\Users\luisa\source\repos\DIEZ\DIEZ\obj\Debug\DIEZ.pdb
